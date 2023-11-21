@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicsPlugin", "DynamicsPlugin\DynamicsPlugin.csproj", "{9C2CDEAA-FE12-4E33-BAF2-5B5C1F174D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9412CB86-5951-46D3-B84B-AE4B71939367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2CDEAA-FE12-4E33-BAF2-5B5C1F174D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2CDEAA-FE12-4E33-BAF2-5B5C1F174D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2CDEAA-FE12-4E33-BAF2-5B5C1F174D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2CDEAA-FE12-4E33-BAF2-5B5C1F174D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9412CB86-5951-46D3-B84B-AE4B71939367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9412CB86-5951-46D3-B84B-AE4B71939367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9412CB86-5951-46D3-B84B-AE4B71939367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9412CB86-5951-46D3-B84B-AE4B71939367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB2546E2-2908-48C0-9F57-415A6FFA0DEB}
+	EndGlobalSection
+EndGlobal
